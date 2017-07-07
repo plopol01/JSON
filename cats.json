@@ -1,6 +1,7 @@
 [
-  {'name': 'tutsi'},
-  {'breed':'bull-shit'},
-  {'favFood':'tae-ng-manok'}
+  {'name': 'tutsi',
+  'breed':'bull-shit',
+  'favFood':'tae-ng-manok'
+  }
 
-]
+];
